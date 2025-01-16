@@ -1,0 +1,2 @@
+# MongoDB $inc Operator Error
+This example demonstrates an incorrect usage of the MongoDB $inc operator. The $inc operator is used to increment a numerical value by a specified amount.  However, the provided code attempts to increment using a string value which results in an error. The solution shows how to use the operator correctly.
